@@ -14,7 +14,7 @@ After that, you can train the network by using **iterate(int times, boolean show
 You can test the network by using **fwpass(double[] inputs)** where **double[] inputs** is an array of inputs. This will return
 a double[] array of outputs. You can clear the dataset with **clearDataSet()**
 
-There are other methods that may help you see whats happening
+There are other methods that may help you see what's happening
 
 * PrintDataSet()
 * PrintStructure()
