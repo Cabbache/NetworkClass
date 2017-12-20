@@ -16,6 +16,6 @@ a double[] array of outputs. You can clear the dataset with **clearDataSet()**
 
 There are other methods that may help you see whats happening
 
-*PrintDataSet()
-*PrintStructure()
-*PrintWeights()
+* PrintDataSet()
+* PrintStructure()
+* PrintWeights()
