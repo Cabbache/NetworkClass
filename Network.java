@@ -2,7 +2,7 @@
  * This is a neural network class.
  * with custom amount of layers
  *
- * @author Luke <Cabbache>
+ * @author Cabbache
  * @version 20.12.17
  */
 
