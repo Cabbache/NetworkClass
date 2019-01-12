@@ -23,7 +23,7 @@ public class NetworkMainExample{
 		nn.AddEntry(new double[] {0.2,-0.5,0.7,0.3,0.24});
 
 		/*
-		Train on the dataset 10000 times and print progress
+		Train on the dataset 200000 times and print progress
 		*/
 
 		nn.iterate(200000, true);
