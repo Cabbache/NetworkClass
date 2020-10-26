@@ -1,10 +1,6 @@
 # NetworkClass
 A neural network class written in java
 
-### What is it ###
-A more object oriented version of https://github.com/Cabbache/Neural. With this class you can create neural networks
-of any amount of layers and neurons in one line.
-
 ### How to use ###
 Create a Network instance >> **Network nn = new Network(int[] layers)** where layers is an array of integers that represent
 the amount of neurons in each layer[x]. Then add data to the 2d dataset array by using the method **AddEntry(double[] entry)** which is not very efficient or with **setDataSet(double[][] dataset)** where one **double[] entry** is an array composed of an array of inputs followed by an array of targets/outputs. **double[][] dataset** is an array of **double[] entry**. Inputs are ideally between -1 and 1. However, the targets/outputs cannot be outside the range of between 0 and 1.
